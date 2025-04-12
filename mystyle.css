@@ -65,10 +65,10 @@ header{
 }
 
 .subscribe button{
-    background-color: rgb(109, 109, 207);
+    background-color: lightsteelblue;
     border: none;
     padding: 5px 10px;
-    color: indigo;
+    color: white;
     font-weight: bold;
 
 }
@@ -98,5 +98,5 @@ input[type="text"], select, textarea{
 }
 
 body{
-    background-image: url("background.jpg");
+    background-image: url("Background1.jpg");
 }
