@@ -100,3 +100,12 @@ input[type="text"], select, textarea{
 body{
     background-image: url("Background1.jpg");
 }
+
+.Articol{
+    width:900px;
+    display: block;
+    margin: 50px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(64, 53, 137);
+    font-size: 30px;
+}
